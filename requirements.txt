@@ -1,0 +1,12 @@
+Django>=5.0,<6.0
+numpy>=1.26
+pandas>=2.0
+opencv-python>=4.8
+Pillow>=10.0
+scikit-learn>=1.4
+scikit-image>=0.22
+tensorflow>=2.15
+imbalanced-learn>=0.12
+matplotlib>=3.8
+seaborn>=0.13
+joblib>=1.3
